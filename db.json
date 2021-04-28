@@ -1,11 +1,64 @@
 {
-  "posts": [
+  "users" : [
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "username":"Joko13",
+      "password":"123456"
+    },
+    {
+      "id":2,
+      "username":"Jono13",
+      "password":"123456"
+    },
+    {
+      "id":3,
+      "username":"Ana13",
+      "password":"123456"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employee":[
+    {
+      "id":1,
+      "name":"Joko Suyanto",
+      "phone" : "082250483022",
+      "address":"JL. Nawawi Hasan",
+      "position" : "HRD"
+    },
+    {
+      "id":2,
+      "name":"Jono Surya",
+      "phone" : "082250483021",
+      "address":"JL. Nawawi Hasan",
+      "position" : "Karyawan"
+    },
+    {
+      "id":3,
+      "name":"Anastasia",
+      "phone" : "082250483023",
+      "address":"JL. Nawawi Hasan",
+      "position" : "Karyawan"
+    }
+  ],
+  "employee_images":[
+    {
+      "id":1,
+      "employees_id":1,
+      "pca_value":[ 0.5633123695342712, 0.4366876304657288 ],
+      "path":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
+    },
+    {
+      "id":2,
+      "employees_id":1,
+      "pca_value":[ 0.5633123695342712, 0.4366876304657288 ],
+      "path":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
+    },
+    {
+      "id":3,
+      "employees_id":1,
+      "pca_value":[ 0.5633123695342712, 0.4366876304657288 ],
+      "path":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
+    }
+
+  ]
+
 }
