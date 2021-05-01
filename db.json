@@ -22,21 +22,25 @@
       "name":"Joko Suyanto",
       "phone" : "082250483022",
       "address":"JL. Nawawi Hasan",
-      "position" : "HRD"
+      "position" : "HRD",
+      "image":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
     },
     {
       "id":2,
       "name":"Jono Surya",
       "phone" : "082250483021",
       "address":"JL. Nawawi Hasan",
-      "position" : "Karyawan"
+      "position" : "Karyawan",
+      "image":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
+
     },
     {
       "id":3,
       "name":"Anastasia",
       "phone" : "082250483023",
       "address":"JL. Nawawi Hasan",
-      "position" : "Karyawan"
+      "position" : "Karyawan",
+      "image":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
     }
   ],
   "employee_images":[
@@ -58,7 +62,26 @@
       "pca_value":[ 0.5633123695342712, 0.4366876304657288 ],
       "path":"https://cdn.asiatatler.com/generationt/i/ap/2019/09/05124909-joe-taslim_article_1333x2000.jpg"
     }
-
+  ],
+  "employees_attendance":[
+    {
+      "id":1,
+      "employees_id":1,
+      "date":"2021-04-03 08:30:09",
+      "status":"in"
+    },
+    {
+      "id":2,
+      "employees_id":2,
+      "date":"2021-04-03 08:35:09",
+      "status":"in"
+    },
+    {
+      "id":2,
+      "employees_id":2,
+      "date":"2021-04-03 10:40:09",
+      "status":"absense"
+    }
   ]
 
 }
