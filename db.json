@@ -19,7 +19,7 @@
   "employee":[
     {
       "id":1,
-      "name":"Joko Suyanto",
+      "name":"Joko Widodo",
       "phone" : "082250483022",
       "address":"JL. Nawawi Hasan",
       "position" : "HRD",
@@ -27,7 +27,7 @@
     },
     {
       "id":2,
-      "name":"Jono Surya",
+      "name":"Omesh",
       "phone" : "082250483021",
       "address":"JL. Nawawi Hasan",
       "position" : "Karyawan",
@@ -36,7 +36,7 @@
     },
     {
       "id":3,
-      "name":"Anastasia",
+      "name":"Imam Darto",
       "phone" : "082250483023",
       "address":"JL. Nawawi Hasan",
       "position" : "Karyawan",
